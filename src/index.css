@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-sans {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+body {
+  background-color: #f8f9fa;
+  color: #171717;
+}
+
+/* Minimal black and white border utility classes */
+.border-thin-black {
+  border: 1px solid #171717;
+}
+
+.border-thick-black {
+  border: 2px solid #171717;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Teacherware",
+  "description": "All-in-one teacher toolkit for classroom management, roster management, floor plan design, storage vault, and test paper double-checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
